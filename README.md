@@ -59,4 +59,21 @@
 
 <img width="867" alt="image" src="https://user-images.githubusercontent.com/46469458/190915985-2db6fc14-ac3e-41ae-ac83-d342ed98db85.png">
 
+* From error in this workshop root cause is Cannot find image name "nginx:lates" (wrong image tag)
+
+13. At left menu scroll up to Kubernetes resources and select Workloads, you will see pop-up click Ok
+
+<img width="986" alt="image" src="https://user-images.githubusercontent.com/46469458/190916681-a8f31ee2-ce7d-4d14-93e1-f4fc14f0f22c.png">
+
+14. At Deployments tab click on your deployment name
+
+<img width="1084" alt="image" src="https://user-images.githubusercontent.com/46469458/190916844-31bcd8c4-a4ca-4dd2-8b54-37621080faa7.png">
+
+15. Select YAML and scroll down to line number 108
+
+<img width="632" alt="image" src="https://user-images.githubusercontent.com/46469458/190917237-7fd8f3a4-66cd-4f9f-bfde-f080f611349c.png">
+
+16. Change `nginx:lates` to `nginx:latest` then click Review + save
+
+<img width="364" alt="image" src="https://user-images.githubusercontent.com/46469458/190917320-d4c633e7-ce0d-4f88-988f-30b63f354593.png">
 
