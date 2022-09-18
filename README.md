@@ -85,7 +85,16 @@
 
 ![image](https://user-images.githubusercontent.com/46469458/190917740-ffafa89f-c620-4e4d-b870-4c76837b7727.png)
 
-19. You will see your deployment is Ready
+19. Go to Monitoring --> Insights and repeat step 4. and 5., You will see new container but status is Ok.
 
-<img width="1075" alt="image" src="https://user-images.githubusercontent.com/46469458/190917826-3c410723-c58f-42b4-a249-855ba4e2d065.png">
+<img width="1182" alt="image" src="https://user-images.githubusercontent.com/46469458/190918047-751efe14-925e-4537-a166-cbd87a5d3bc1.png">
+
+20. Click on the container ( status Ok) you will see 
+
+  Container Status = running
+  
+  Container Status Reason = -
+
+<img width="541" alt="image" src="https://user-images.githubusercontent.com/46469458/190918207-f94f5d05-b753-4180-9a20-6f5e49440db2.png">
+
 
