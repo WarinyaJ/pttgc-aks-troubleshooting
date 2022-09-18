@@ -77,3 +77,15 @@
 
 <img width="364" alt="image" src="https://user-images.githubusercontent.com/46469458/190917320-d4c633e7-ce0d-4f88-988f-30b63f354593.png">
 
+17. Review your change and check Confirm manifest changes and click save
+
+![image](https://user-images.githubusercontent.com/46469458/190917641-9463ffbe-19d1-49a6-b472-c1af266a81b4.png)
+
+18. Go to top of page and click on your cluster name
+
+![image](https://user-images.githubusercontent.com/46469458/190917740-ffafa89f-c620-4e4d-b870-4c76837b7727.png)
+
+19. You will see your deployment is Ready
+
+<img width="1075" alt="image" src="https://user-images.githubusercontent.com/46469458/190917826-3c410723-c58f-42b4-a249-855ba4e2d065.png">
+
