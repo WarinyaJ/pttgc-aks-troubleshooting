@@ -69,7 +69,7 @@
 
 <img width="1084" alt="image" src="https://user-images.githubusercontent.com/46469458/190916844-31bcd8c4-a4ca-4dd2-8b54-37621080faa7.png">
 
-15. Select YAML and scroll down to line number 108
+15. Select YAML and scroll down to ***line number 108***
 
 <img width="632" alt="image" src="https://user-images.githubusercontent.com/46469458/190917237-7fd8f3a4-66cd-4f9f-bfde-f080f611349c.png">
 
