@@ -1,4 +1,4 @@
-# AKS-troubleshooting
+# AKS-troubleshooting #
 1. Go to [Azure_Portal](https://azure.microsoft.com/en-us/get-started/azure-portal/) then search kubernetes and select Kubernetes services
 
 <img width="1158" alt="Screen Shot 2565-08-24 at 13 42 46" src="https://user-images.githubusercontent.com/46469458/186349099-679fc9f0-0c51-41f7-baf9-39454eeda184.png">
