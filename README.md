@@ -97,6 +97,10 @@
 
 <img width="541" alt="image" src="https://user-images.githubusercontent.com/46469458/190918207-f94f5d05-b753-4180-9a20-6f5e49440db2.png">
 
+  then switch to Live Logs tab to see real time log when incoming connection
+  
+<img width="1203" alt="image" src="https://user-images.githubusercontent.com/46469458/190974630-d13bd801-498d-42fc-b02b-dde7e8901513.png">
+
 21. Workbooks 
 
 ![image](https://user-images.githubusercontent.com/46469458/190971365-46a2514f-bc88-4ac3-abab-61824b28440f.png)
